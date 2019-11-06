@@ -1,14 +1,19 @@
 item {
   id: 1
-  name: 'snitch'
+  name: 'turn_left'
 }
 
 item {
   id: 2
-  name: 'quaffle'
+  name: 'turn_right'
 }
 
 item {
   id: 3
-  name: 'bludger'
+  name: 'go_straight'
+}
+
+item {
+  id: 3
+  name: 'loop'
 }
